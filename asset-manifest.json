@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/travel-journal/static/js/main.aeff9110.js",
+    "static/media/earth.png": "/travel-journal/static/media/earth.b2f846bee94dcdee740d.png",
+    "static/media/nav.png": "/travel-journal/static/media/nav.ed562d945fa6b453fd3c.png",
+    "index.html": "/travel-journal/index.html",
+    "main.aeff9110.js.map": "/travel-journal/static/js/main.aeff9110.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.aeff9110.js"
+  ]
+}

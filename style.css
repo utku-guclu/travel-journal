@@ -1,0 +1,100 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Inter, sans-serif;
+}
+
+
+.earth-img {
+    width: 5%;
+    margin-right: 10px;
+}
+
+.header {
+    font-size: 20px;
+    text-align: center;
+    background: #a2bfd7;
+    padding: 20px;
+    color: #eee;
+    text-shadow: 1px 2px 3px #2B283A;
+}
+
+.container {
+    margin: 50px 40px 30px;
+    position: relative;
+}
+
+.card {
+    margin-bottom: 36px;
+}
+
+.card--img {
+    width: 125px;
+    height: 168px;
+    border-radius: 4px;
+
+}
+/** span **/
+.card--nav {
+    width: 3%;  
+}
+
+.card--maps {   
+    margin-left: 10px;
+    font-size: 10.24px;
+    line-height: 12px;
+    /* identical to box height */
+    text-decoration-line: underline;
+    color: #918E9B;
+}
+/** span **/
+
+.right-align {
+    margin-left: 20px;
+    float: right;
+    position: absolute;
+    display: inline;
+    color: #2B283A;
+    margin-top: 20px;
+    font-size: 10.24px;
+    align-items: center;
+}
+
+.right-align span {
+    font-weight: normal;
+    line-height: 12px;
+    letter-spacing: 0.17em;
+}
+
+.right-align h1 {
+    font-weight: bold;
+    font-size: 25px;
+    line-height: 30px;
+    padding-top: 5px
+}
+
+.right-align h2 {
+    font-weight: bold;
+    line-height: 12px;
+    margin-top: 10px;
+}
+
+.right-align p {
+    margin-top: 10px;
+    line-height: 150%;
+}
+
+@media screen and (max-width: 480px){
+    .App {
+        width: 550px;
+        height: 704px;
+    }
+    
+   
+    
+}
+
